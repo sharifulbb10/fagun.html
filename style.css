@@ -1,0 +1,50 @@
+body {
+		font-family: Vardana, sans-serif;
+		background-color: #d5f4ff;
+}
+
+h1 {
+		background-color: tomato;
+		color: palegreen;
+		padding-left: 10px;
+}
+
+.navigation {
+   background-color: yellow;
+		color: orange;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 100%;
+		margin: 0 10 10 10;
+		float: left;
+}
+.navigation a {
+		text-decoration: none;
+		padding-top: 5px;
+		padding-bottom: 5px;
+}
+.navigation div {
+		margin-bottom: 8px;
+}
+.navigation a:hover {
+		margin-left: 2px;
+		color: tomato;
+}
+.navigation a:active {
+		background-color: #ffb355;
+}
+.navigation a:visited {
+		color: #ff3400;
+}
+
+.bodyText {
+		color: tomato;
+		text-align: justify;
+}
+
+img {
+		weight: 120px;
+		height: 120px;
+		float: left;
+		padding: 3px;
+}
